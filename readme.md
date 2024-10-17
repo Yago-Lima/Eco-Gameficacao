@@ -42,4 +42,4 @@ Contribuições são bem-vindas. Por favor, abra uma issue para discutir suas id
 
 ## Licença
 
-Este projeto está licenciado sob os termos da licença MIT.
+Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
