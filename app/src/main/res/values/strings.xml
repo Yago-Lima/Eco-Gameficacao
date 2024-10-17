@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Eco Memória</string>
+    <string name="ver_pontua_o">Ver Pontuação</string>
+    <string name="sair">Sair</string>
+    <string name="porcentagem">%</string>
+    <string name="digite_seu_nome">Digite seu Nome</string>
+    <string name="facil">FACIL</string>
+    <string name="normal">NORMAL</string>
+    <string name="dificil">DIFICIL</string>
+    <string name="iniciar_partida">Iniciar Partida</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insira_seu_nome_para_come_ar">Insira seu nome para começar</string>
+    <string name="nome_do_jogador">Nome do Jogador</string>
+    <string name="pontua_o">Pontuação:</string>
+    <string name="ver_jogadores">ver jogadores</string>
+    <string name="score">score:</string>
+    <string name="dificuldade">Dificuldade:</string>
+    <string name="insira_o_nome_do_jogador">Insira o nome do jogador</string>
+    <string name="nenhuma_dificuldade_selecionada">Nenhuma dificuldade selecionada</string>
+</resources>
